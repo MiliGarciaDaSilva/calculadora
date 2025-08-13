@@ -8,4 +8,8 @@
     <RootNamespace>Ucu.Poo.GitChallenge</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Compile Remove="calcuadora.cs" />
+  </ItemGroup>
+
 </Project>
