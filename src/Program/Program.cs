@@ -21,7 +21,7 @@ public class Addition
     }
 }
 
-// Esta clase implementa la operacion Restar
+// Esta clase implementa la operación Restar
 public class Substraction
 {
     public static int Substract(int a, int b)
@@ -29,7 +29,7 @@ public class Substraction
         return a - b;
     }
 }
-// Esta clase implementa la operacion Multiplicar
+// Esta clase implementa la operación Multiplicar
 public class Multiplication
 {
     public static int Multiply(int a, int b)
